@@ -1,0 +1,21 @@
+<loader version="1.0">
+	<application id="iBoss">
+		<name >
+			iBoss
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.01
+		</version>
+		<vendor >
+			Bajaj Allianz
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 Bajaj Allianz
+		</copyright>
+
+	</application>
+
+</loader>
